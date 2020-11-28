@@ -5,3 +5,4 @@ My solutions to the selected problems from Kattis, UvA Online Judge, and various
 | ------------- | ------------- |
 | [Statistics](./Chapter%201/Kattis/statistics.cpp)  | C++ |
 | [Basic Programming 1](./Chapter%201/Kattis/basicprogramming1.cpp) | C++  |
+| [Hanging Out on the Terrace](./Chapter%201/Kattis/hangingout.cpp) | C++ |
