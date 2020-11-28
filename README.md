@@ -3,5 +3,5 @@ My solutions to the selected problems from Kattis, UvA Online Judge, and various
 
 | Kattis Problem  | Language |
 | ------------- | ------------- |
-| [Statistics](statistics.cpp)  | C++ |
-| [Basic Programming 1](basicprogramming1.cpp) | C++  |
+| [Statistics](../../statistics.cpp)  | C++ |
+| [Basic Programming 1](../../basicprogramming1.cpp) | C++  |
