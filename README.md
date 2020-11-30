@@ -7,3 +7,6 @@ My solutions to the selected problems from Kattis, UvA Online Judge, and various
 | [Basic Programming 1](./Chapter%201/Kattis/basicprogramming1.cpp) | C++  |
 | [Hanging Out on the Terrace](./Chapter%201/Kattis/hangingout.cpp) | C++ |
 | [Popular Vote](./Chapter%201/Kattis/vote.cpp) | C++ |
+| [Battle Simulation](./Chapter%201/Kattis/battlesimulation.cpp) | C++ |
+| [Preludes](./Chapter%201/Kattis/chopin.cpp) | C++ |
+
