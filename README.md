@@ -10,5 +10,7 @@ My solutions to the selected problems from Kattis, UvA Online Judge, and various
 | [Battle Simulation](./Chapter%201/Kattis/battlesimulation.cpp) | C++ |
 | [Preludes](./Chapter%201/Kattis/chopin.cpp) | C++ |
 | [Tic Tac Toe 2](./Chapter%201/Kattis/tictactoe2.cpp) | C++ |
+| [Chess](./Chapter%201/Kattis/chess.cpp) | C++ |
+
 
 
