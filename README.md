@@ -12,6 +12,9 @@ My solutions to the selected problems from Kattis, UvA Online Judge, and various
 | [Pig Latin](./Chapter%201/Kattis/chopin.cpp) | C++ |
 | [Tic Tac Toe 2](./Chapter%201/Kattis/tictactoe2.cpp) | C++ |
 | [Chess](./Chapter%201/Kattis/chess.cpp) | C++ |
+| [Greedily Increasing Subsequence](./Chapter%202/Kattis/greedilyincreasing.cpp) | C++ |
+| [Mastering Mastermind](./Chapter%202/Kattis/mastermind.cpp) | C++ |
+
 
 
 
