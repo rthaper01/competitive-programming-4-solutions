@@ -15,6 +15,10 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | Kattis | [Chess](./Chapter%201/Kattis/chess.cpp) | C++ | 3.0 |
 | Kattis | [Greedily Increasing Subsequence](./Chapter%202/Kattis/greedilyincreasing.cpp) | C++ | 2.1 |
 | Kattis | [Mastering Mastermind](./Chapter%202/Kattis/mastermind.cpp) | C++ | 2.4 |
+| Kattis | [Image Processing](./Chapter%202/Kattis/imageprocessing.cpp) | C++ | 2.1 |
+| Kattis | [Rings](./Chapter%202/Kattis/rings2.cpp) | C++ | 3.9 |
+
+
 
 
 
