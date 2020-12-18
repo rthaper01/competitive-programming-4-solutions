@@ -17,6 +17,12 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | Kattis | [Mastering Mastermind](./Chapter%202/Kattis/mastermind.cpp) | C++ | 2.4 |
 | Kattis | [Image Processing](./Chapter%202/Kattis/imageprocessing.cpp) | C++ | 2.1 |
 | Kattis | [Rings](./Chapter%202/Kattis/rings2.cpp) | C++ | 3.9 |
+| Kattis | [Height Ordering](./Chapter%202/Kattis/height.cpp) | C++ | 2.1 |
+| Kattis | [Mjehuric](./Chapter%202/Kattis/mjehuric.cpp) | C++ | 1.6 |
+| Kattis | [A Classy Problem](./Chapter%202/Kattis/classy.cpp) | C++ | 4.2 |
+
+
+
 
 
 
