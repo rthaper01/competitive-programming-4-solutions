@@ -8,7 +8,6 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 1.4 | Kattis | [Hanging Out on the Terrace](./Chapter%201/Kattis/hangingout.cpp) | C++ | 1.3 |
 | 1.4 | Kattis | [Popular Vote](./Chapter%201/Kattis/vote.cpp) | C++ | 2.3 |
 | 1.4 | Kattis | [Battle Simulation](./Chapter%201/Kattis/battlesimulation.cpp) | C++ | 2.7 |
-| 1.4 | UvA Online Judge | [Celebrity Jeopardy](./Chapter%201/UvA/jeopardy.cpp) | C++ |  |
 | 1.6 | Kattis | [Preludes](./Chapter%201/Kattis/chopin.cpp) | C++ | 1.8 |
 | 1.6 | Kattis | [Toilet Seat](./Chapter%201/Kattis/toilet.cpp) | C++ | 2.4 |
 | 1.6 | Kattis | [Pig Latin](./Chapter%201/Kattis/chopin.cpp) | C++ | 2.1 |
@@ -22,6 +21,11 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 2.2 | Kattis | [Mjehuric](./Chapter%202/Kattis/mjehuric.cpp) | C++ | 1.6 |
 | 2.2 | Kattis | [A Classy Problem](./Chapter%202/Kattis/classy.cpp) | C++ | 4.2 |
 | 2.2 | Kattis | [Bread Sorting](./Chapter%202/Kattis/bread.cpp) | C++ | 4.8 |
+
+| Section in Book | Problem Source | Problem Title | Language |
+| ------------- | ------------- | ------------- | ------------- |
+| 1.4 | UvA Online Judge | [Celebrity Jeopardy](./Chapter%201/UvA/jeopardy.cpp) | C++ |
+| 2.2 | UvA Online Judge | [Age Sort](./Chapter%202/UvA/agesort.cpp) | C++ |
 
 
 
