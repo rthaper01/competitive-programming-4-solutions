@@ -21,6 +21,8 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 2.2 | Kattis | [Mjehuric](./Chapter%202/Kattis/mjehuric.cpp) | C++ | 1.6 |
 | 2.2 | Kattis | [A Classy Problem](./Chapter%202/Kattis/classy.cpp) | C++ | 4.2 |
 | 2.2 | Kattis | [Bread Sorting](./Chapter%202/Kattis/bread.cpp) | C++ | 4.8 |
+| 2.2 | Kattis | [Mali](./Chapter%202/Kattis/mali.cpp) | C++ | 5.4 |
+
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
