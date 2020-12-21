@@ -1,6 +1,8 @@
 # competitive-programming-4-solutions
 My solutions to selected problems from Kattis, UvA Online Judge, and various competitions in Competitive Programming 4 by Steven Halim, Felix Halim, and Suhendry Effendy.
 
+The title of each problem hyperlinks to its description while the language hyperlinks to the solution file. 
+
 | Section in Book | Problem Source | Problem Title | Language | Difficulty |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1.4 | Kattis | [Statistics](https://open.kattis.com/problems/statistics) | [C++](./Chapter%201/Kattis/statistics.cpp) | 1.8 |
@@ -8,7 +10,7 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 1.4 | Kattis | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [C++](./Chapter%201/Kattis/hangingout.cpp) | 1.3 |
 | 1.4 | Kattis | [Popular Vote](https://open.kattis.com/problems/vote) | [C++](./Chapter%201/Kattis/vote.cpp) | 2.3 |
 | 1.4 | Kattis | [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | [C++](./Chapter%201/Kattis/battlesimulation.cpp) | 2.7 |
-| 1.6 | Kattis | [Preludes](./Chapter%201/Kattis/chopin.cpp) | C++ | 1.8 |
+| 1.6 | Kattis | [Preludes](https://open.kattis.com/problems/preludes) | [C++](./Chapter%201/Kattis/chopin.cpp) | 1.8 |
 | 1.6 | Kattis | [Toilet Seat](./Chapter%201/Kattis/toilet.cpp) | C++ | 2.4 |
 | 1.6 | Kattis | [Pig Latin](./Chapter%201/Kattis/chopin.cpp) | C++ | 2.1 |
 | 1.6 | Kattis | [Tic Tac Toe 2](./Chapter%201/Kattis/tictactoe2.cpp) | C++ | 3.9 |
