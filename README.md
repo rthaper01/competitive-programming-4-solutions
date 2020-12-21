@@ -3,7 +3,7 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 
 | Section in Book | Problem Source | Problem Title | Language | Difficulty |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1.4 | Kattis | [Statistics](./Chapter%201/Kattis/statistics.cpp)  | C++ | 1.8 |
+| 1.4 | Kattis | [Statistics](https://open.kattis.com/problems/statistics) | [C++](./Chapter%201/Kattis/statistics.cpp) | 1.8 |
 | 1.4 | Kattis | [Basic Programming 1](./Chapter%201/Kattis/basicprogramming1.cpp) | C++  | 3.8 |
 | 1.4 | Kattis | [Hanging Out on the Terrace](./Chapter%201/Kattis/hangingout.cpp) | C++ | 1.3 |
 | 1.4 | Kattis | [Popular Vote](./Chapter%201/Kattis/vote.cpp) | C++ | 2.3 |
