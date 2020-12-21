@@ -28,6 +28,8 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | ------------- | ------------- | ------------- | ------------- |
 | 1.4 | UvA Online Judge | [Celebrity Jeopardy](./Chapter%201/UvA/jeopardy.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Age Sort](./Chapter%202/UvA/agesort.cpp) | C++ |
+| 2.2 | UvA Online Judge | [Splitting Numbers](./Chapter%202/UvA/split.cpp) | C++ |
+
 
 
 
