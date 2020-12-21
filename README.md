@@ -31,6 +31,8 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 2.2 | UvA Online Judge | [Age Sort](./Chapter%202/UvA/agesort.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Splitting Numbers](./Chapter%202/UvA/split.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Grey Codes](./Chapter%202/UvA/greycodes.cpp) | C++ |
+| 2.2 | UvA Online Judge | [Very Easy !!!](./Chapter%202/UvA/veryeasy.py) | Python 3 |
+
 
 
 
