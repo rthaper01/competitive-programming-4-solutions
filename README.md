@@ -4,9 +4,9 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | Section in Book | Problem Source | Problem Title | Language | Difficulty |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1.4 | Kattis | [Statistics](https://open.kattis.com/problems/statistics) | [C++](./Chapter%201/Kattis/statistics.cpp) | 1.8 |
-| 1.4 | Kattis | [Basic Programming 1](./Chapter%201/Kattis/basicprogramming1.cpp) | C++  | 3.8 |
-| 1.4 | Kattis | [Hanging Out on the Terrace](./Chapter%201/Kattis/hangingout.cpp) | C++ | 1.3 |
-| 1.4 | Kattis | [Popular Vote](./Chapter%201/Kattis/vote.cpp) | C++ | 2.3 |
+| 1.4 | Kattis | [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | [C++](./Chapter%201/Kattis/basicprogramming1.cpp)  | 3.8 |
+| 1.4 | Kattis | [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [C++](./Chapter%201/Kattis/hangingout.cpp) | 1.3 |
+| 1.4 | Kattis | [Popular Vote](https://open.kattis.com/problems/vote) | [C++](./Chapter%201/Kattis/vote.cpp) | 2.3 |
 | 1.4 | Kattis | [Battle Simulation](./Chapter%201/Kattis/battlesimulation.cpp) | C++ | 2.7 |
 | 1.6 | Kattis | [Preludes](./Chapter%201/Kattis/chopin.cpp) | C++ | 1.8 |
 | 1.6 | Kattis | [Toilet Seat](./Chapter%201/Kattis/toilet.cpp) | C++ | 2.4 |
