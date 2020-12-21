@@ -22,6 +22,7 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 2.2 | Kattis | [A Classy Problem](./Chapter%202/Kattis/classy.cpp) | C++ | 4.2 |
 | 2.2 | Kattis | [Bread Sorting](./Chapter%202/Kattis/bread.cpp) | C++ | 4.8 |
 | 2.2 | Kattis | [Mali](./Chapter%202/Kattis/mali.cpp) | C++ | 5.4 |
+| 2.2 | Kattis | [Bit By Bit](https://open.kattis.com/problems/bitbybit | [C++](./Chapter%202/Kattis/bitbybit.cpp) | 2.6 |
 
 
 | Section in Book | Problem Source | Problem Title | Language |
@@ -29,6 +30,7 @@ My solutions to selected problems from Kattis, UvA Online Judge, and various com
 | 1.4 | UvA Online Judge | [Celebrity Jeopardy](./Chapter%201/UvA/jeopardy.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Age Sort](./Chapter%202/UvA/agesort.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Splitting Numbers](./Chapter%202/UvA/split.cpp) | C++ |
+| 2.2 | UvA Online Judge | [Grey Codes](./Chapter%202/UvA/greycodes.cpp) | C++ |
 
 
 
