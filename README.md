@@ -28,7 +28,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [C++](./Chapter%202/Kattis/evenup.cpp) | 2.7 |
 | 2.2 | Kattis | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](./Chapter%202/Kattis/simpleaddition.py) | 1.9 |
 | 2.2 | Kattis | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python 3](./Chapter%202/Kattis/wizardofodds.py) | 2.6 |
-| 2.2 | Kattis | [Wizard of Odds](https://open.kattis.com/problems/pairingsocks) | [C++](./Chapter%202/Kattis/pairingsocks.cpp) | 2.7 |
+| 2.2 | Kattis | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [C++](./Chapter%202/Kattis/pairingsocks.cpp) | 2.7 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
