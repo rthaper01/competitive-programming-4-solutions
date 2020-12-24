@@ -31,6 +31,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [C++](./Chapter%202/Kattis/pairingsocks.cpp) | 2.7 |
 | 2.2 | Kattis | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [C++](./Chapter%202/Kattis/restaurant.cpp) | 4.5 |
 | 2.2 | Kattis | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [C++](./Chapter%202/Kattis/circuitmath.cpp) | 2.4 |
+| 2.2 | Kattis | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [C++](./Chapter%202/Kattis/delimitersoup.cpp) | 2.4 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
