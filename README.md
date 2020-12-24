@@ -12,12 +12,12 @@ The title of each problem hyperlinks to its description while the language hyper
 | 1.4 | Kattis | [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | [C++](./Chapter%201/Kattis/battlesimulation.cpp) | 2.7 |
 | 1.6 | Kattis | [Preludes](https://open.kattis.com/problems/chopin) | [C++](./Chapter%201/Kattis/chopin.cpp) | 1.8 |
 | 1.6 | Kattis | [Toilet Seat](https://open.kattis.com/problems/toilet) | [C++](./Chapter%201/Kattis/toilet.cpp) | 2.4 |
-| 1.6 | Kattis | [Pig Latin](./Chapter%201/Kattis/piglatin.cpp) | C++ | 2.1 |
-| 1.6 | Kattis | [Tic Tac Toe 2](./Chapter%201/Kattis/tictactoe2.cpp) | C++ | 3.9 |
-| 2.2 | Kattis | [Chess](./Chapter%201/Kattis/chess.cpp) | C++ | 3.0 |
-| 2.2 | Kattis | [Greedily Increasing Subsequence](./Chapter%202/Kattis/greedilyincreasing.cpp) | C++ | 2.1 |
-| 2.2 | Kattis | [Mastering Mastermind](./Chapter%202/Kattis/mastermind.cpp) | C++ | 2.4 |
-| 2.2 | Kattis | [Image Processing](./Chapter%202/Kattis/imageprocessing.cpp) | C++ | 2.1 |
+| 1.6 | Kattis | [Pig Latin](https://open.kattis.com/problems/piglatin) | [C++](./Chapter%201/Kattis/piglatin.cpp) | 2.1 |
+| 1.6 | Kattis | [Tic Tac Toe 2](https://open.kattis.com/problems/piglatin) | [C++](./Chapter%201/Kattis/tictactoe2.cpp) | 3.9 |
+| 2.2 | Kattis | [Tic Tac Toe 2](https://open.kattis.com/problems/chess) | [C++](./Chapter%201/Kattis/chess.cpp) | 3.0 |
+| 2.2 | Kattis | [Greedily Increasing Subsequence](https://open.kattis.com/problems/chess) | [C++](./Chapter%202/Kattis/greedilyincreasing.cpp) | 2.1 |
+| 2.2 | Kattis | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [C++](./Chapter%202/Kattis/mastermind.cpp) | 2.4 |
+| 2.2 | Kattis | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [C++](./Chapter%202/Kattis/imageprocessing.cpp) | 2.1 |
 | 2.2 | Kattis | [Rings](./Chapter%202/Kattis/rings2.cpp) | C++ | 3.9 |
 | 2.2 | Kattis | [Height Ordering](./Chapter%202/Kattis/height.cpp) | C++ | 2.1 |
 | 2.2 | Kattis | [Mjehuric](./Chapter%202/Kattis/mjehuric.cpp) | C++ | 1.6 |
