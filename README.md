@@ -11,6 +11,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 1.4 | Kattis | [Popular Vote](https://open.kattis.com/problems/vote) | [C++](./Chapter%201/Kattis/vote.cpp) | 2.3 |
 | 1.4 | Kattis | [Battle Simulation](https://open.kattis.com/problems/battlesimulation) | [C++](./Chapter%201/Kattis/battlesimulation.cpp) | 2.7 |
 | 1.4 | Kattis | [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [Python 3](./Chapter%201/Kattis/lostlineup.py) | 1.5 |
+| 1.4 | Kattis | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python 3](./Chapter%201/Kattis/hissingmicrophone.py) | 1.3 |
 | 1.6 | Kattis | [Preludes](https://open.kattis.com/problems/chopin) | [C++](./Chapter%201/Kattis/chopin.cpp) | 1.8 |
 | 1.6 | Kattis | [Toilet Seat](https://open.kattis.com/problems/toilet) | [C++](./Chapter%201/Kattis/toilet.cpp) | 2.4 |
 | 1.6 | Kattis | [Pig Latin](https://open.kattis.com/problems/piglatin) | [C++](./Chapter%201/Kattis/piglatin.cpp) | 2.1 |
