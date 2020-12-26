@@ -36,7 +36,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [C++](./Chapter%202/Kattis/circuitmath.cpp) | 2.4 |
 | 2.2 | Kattis | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [C++](./Chapter%202/Kattis/delimitersoup.cpp) | 1.9 |
 | 2.2 | Kattis | [Backspace](https://open.kattis.com/problems/backspace) | [C++](./Chapter%202/Kattis/backspace.cpp) | 3.0 |
-| 2.2 | Kattis | [Teque](https://open.kattis.com/problems/teque) | [C++](./Chapter%202/Kattis/teque.cpp) | 2.1 |
+| 2.2 | Kattis | [Teque](https://open.kattis.com/problems/teque) | [C++](./Chapter%202/Kattis/teque.cpp) | 3.7 |
 | 2.3 | Kattis | [Numbers on a Tree](https://open.kattis.com/problems/numbertree) | [C++](./Chapter%202/Kattis/numbertree.cpp) | 2.1 |
 
 | Section in Book | Problem Source | Problem Title | Language |
