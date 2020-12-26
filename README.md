@@ -21,12 +21,12 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Greedily Increasing Subsequence](https://open.kattis.com/problems/chess) | [C++](./Chapter%202/Kattis/greedilyincreasing.cpp) | 2.1 |
 | 2.2 | Kattis | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [C++](./Chapter%202/Kattis/mastermind.cpp) | 2.4 |
 | 2.2 | Kattis | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [C++](./Chapter%202/Kattis/imageprocessing.cpp) | 2.1 |
-| 2.2 | Kattis | [Rings](./Chapter%202/Kattis/rings2.cpp) | C++ | 3.9 |
-| 2.2 | Kattis | [Height Ordering](./Chapter%202/Kattis/height.cpp) | C++ | 2.1 |
-| 2.2 | Kattis | [Mjehuric](./Chapter%202/Kattis/mjehuric.cpp) | C++ | 1.6 |
-| 2.2 | Kattis | [A Classy Problem](./Chapter%202/Kattis/classy.cpp) | C++ | 4.2 |
-| 2.2 | Kattis | [Bread Sorting](./Chapter%202/Kattis/bread.cpp) | C++ | 4.8 |
-| 2.2 | Kattis | [Mali](./Chapter%202/Kattis/mali.cpp) | C++ | 5.4 |
+| 2.2 | Kattis | [Rings](https://open.kattis.com/problems/rings) | [C++](./Chapter%202/Kattis/rings2.cpp) | 3.9 |
+| 2.2 | Kattis | [Height Ordering](https://open.kattis.com/problems/heightordering) | [C++](./Chapter%202/Kattis/height.cpp) | 2.1 |
+| 2.2 | Kattis | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [C++](./Chapter%202/Kattis/mjehuric.cpp) | 1.6 |
+| 2.2 | Kattis | [A Classy Problem](https://open.kattis.com/problems/classy) | [C++](./Chapter%202/Kattis/classy.cpp) | 4.2 |
+| 2.2 | Kattis | [Bread Sorting](https://open.kattis.com/problems/bread) | [C++](./Chapter%202/Kattis/bread.cpp) | 4.8 |
+| 2.2 | Kattis | [Mali](https://open.kattis.com/problems/mali) | [C++](./Chapter%202/Kattis/mali.cpp) | 5.4 |
 | 2.2 | Kattis | [Bit By Bit](https://open.kattis.com/problems/bitbybit) | [C++](./Chapter%202/Kattis/bitbybit.cpp) | 2.6 |
 | 2.2 | Kattis | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [C++](./Chapter%202/Kattis/evenup.cpp) | 2.7 |
 | 2.2 | Kattis | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](./Chapter%202/Kattis/simpleaddition.py) | 1.9 |
@@ -36,6 +36,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [C++](./Chapter%202/Kattis/circuitmath.cpp) | 2.4 |
 | 2.2 | Kattis | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [C++](./Chapter%202/Kattis/delimitersoup.cpp) | 1.9 |
 | 2.2 | Kattis | [Backspace](https://open.kattis.com/problems/backspace) | [C++](./Chapter%202/Kattis/backspace.cpp) | 3.0 |
+| 2.2 | Kattis | [Teque](https://open.kattis.com/problems/teque) | [C++](./Chapter%202/Kattis/teque.cpp) | 2.1 |
 | 2.3 | Kattis | [Numbers on a Tree](https://open.kattis.com/problems/numbertree) | [C++](./Chapter%202/Kattis/numbertree.cpp) | 2.1 |
 
 | Section in Book | Problem Source | Problem Title | Language |
