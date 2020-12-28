@@ -38,6 +38,8 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Backspace](https://open.kattis.com/problems/backspace) | [C++](./Chapter%202/Kattis/backspace.cpp) | 3.0 |
 | 2.2 | Kattis | [Teque](https://open.kattis.com/problems/teque) | [C++](./Chapter%202/Kattis/teque.cpp) | 3.7 |
 | 2.3 | Kattis | [Numbers on a Tree](https://open.kattis.com/problems/numbertree) | [C++](./Chapter%202/Kattis/numbertree.cpp) | 2.1 |
+| 2.3 | Kattis | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [C++](./Chapter%202/Kattis/jugglingpatterns.cpp) | 7.1 |
+| 2.3 | Kattis | [Stock Prices](https://open.kattis.com/problems/stockprices) | [C++](./Chapter%202/Kattis/stockprices.cpp) | 4.1 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
