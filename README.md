@@ -40,6 +40,8 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.3 | Kattis | [Numbers on a Tree](https://open.kattis.com/problems/numbertree) | [C++](./Chapter%202/Kattis/numbertree.cpp) | 2.1 |
 | 2.3 | Kattis | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [C++](./Chapter%202/Kattis/jugglingpatterns.cpp) | 7.1 |
 | 2.3 | Kattis | [Stock Prices](https://open.kattis.com/problems/stockprices) | [C++](./Chapter%202/Kattis/stockprices.cpp) | 4.1 |
+| 2.3 | Kattis | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [C++](./Chapter%202/Kattis/alphabetspam.cpp) | 1.4 |
+| 2.3 | Kattis | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [C++](./Chapter%202/Kattis/busnumbers.cpp) | 2.8 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
