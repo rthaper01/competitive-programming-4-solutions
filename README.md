@@ -44,7 +44,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.3 | Kattis | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [C++](./Chapter%202/Kattis/busnumbers.cpp) | 2.8 |
 | 2.3 | Kattis | [CD](https://open.kattis.com/problems/cd) | [C++](./Chapter%202/Kattis/cd.cpp) | 4.8 |
 | 2.3 | Kattis | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [C++](./Chapter%202/Kattis/greetingcard.cpp) | 4.6 |
-
+| 2.3 | Kattis | [Recount](https://open.kattis.com/problems/recount) | [C++](./Chapter%202/Kattis/recount.cpp) | 2.1 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
