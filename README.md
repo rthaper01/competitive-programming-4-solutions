@@ -28,6 +28,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | Kattis | [Bread Sorting](https://open.kattis.com/problems/bread) | [C++](./Chapter%202/Kattis/bread.cpp) | 4.8 |
 | 2.2 | Kattis | [Mali](https://open.kattis.com/problems/mali) | [C++](./Chapter%202/Kattis/mali.cpp) | 5.4 |
 | 2.2 | Kattis | [Bit By Bit](https://open.kattis.com/problems/bitbybit) | [C++](./Chapter%202/Kattis/bitbybit.cpp) | 2.6 |
+| 2.2 | Kattis | [Hamiltonian Hypercube](https://open.kattis.com/problems/hypercube) | [Python 3](./Chapter%202/Kattis/hypercube.py) | 3.1 |
 | 2.2 | Kattis | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [C++](./Chapter%202/Kattis/evenup.cpp) | 2.7 |
 | 2.2 | Kattis | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](./Chapter%202/Kattis/simpleaddition.py) | 1.9 |
 | 2.2 | Kattis | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Python 3](./Chapter%202/Kattis/wizardofodds.py) | 2.6 |
