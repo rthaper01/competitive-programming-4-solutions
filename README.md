@@ -47,6 +47,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.3 | Kattis | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [C++](./Chapter%202/Kattis/greetingcard.cpp) | 4.6 |
 | 2.3 | Kattis | [Recount](https://open.kattis.com/problems/recount) | [C++](./Chapter%202/Kattis/recount.cpp) | 2.1 |
 | 2.3 | Kattis | [Conformity](https://open.kattis.com/problems/conformity) | [C++](./Chapter%202/Kattis/conformity.cpp) | 1.8 |
+| 2.3 | Kattis | [Adding Words](https://open.kattis.com/problems/addingwords) | [C++](./Chapter%202/Kattis/addingwords.cpp) | 3.7 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
