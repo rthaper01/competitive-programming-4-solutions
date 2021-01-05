@@ -51,6 +51,8 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.3 | Kattis | [Candy Division](https://open.kattis.com/problems/candydivision) | [C++](./Chapter%202/Kattis/candydivision.cpp) | 3.1 |
 | 2.3 | Kattis | [Binary Search Tree](https://open.kattis.com/problems/bst) | [C++](./Chapter%202/Kattis/bst.cpp) | 7.1 |
 | 2.3 | Kattis | [Doctor Kattis](https://open.kattis.com/problems/addingwords) | [C++](./Chapter%202/Kattis/doctorkattis.cpp) | 4.0 |
+| 2.4 | Kattis | [Union-Find](https://open.kattis.com/problems/unionfind) | [C++](./Chapter%202/Kattis/unionfind.cpp) | 5.1 |
+| 2.4 | Kattis | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [C++](./Chapter%202/Kattis/fenwick.cpp) | 4.5 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
