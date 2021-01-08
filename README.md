@@ -57,6 +57,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 3.2 | Kattis | [Black Friday](https://open.kattis.com/problems/blackfriday) | [C++](./Chapter%202/Kattis/blackfriday.cpp) | 2.0 |
 | 3.2 | Kattis | [Closest Sums](https://open.kattis.com/problems/closestsums) | [C++](./Chapter%202/Kattis/closestsums.cpp) | 2.9 |
 | 3.2 | Kattis | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [C++](./Chapter%202/Kattis/npuzzle.cpp) | 2.2 |
+| 3.2 | Kattis | [Set!](https://open.kattis.com/problems/set) | [C++](./Chapter%202/Kattis/set.cpp) | 2.2 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
