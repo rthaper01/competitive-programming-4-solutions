@@ -53,11 +53,11 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.3 | Kattis | [Doctor Kattis](https://open.kattis.com/problems/addingwords) | [C++](./Chapter%202/Kattis/doctorkattis.cpp) | 4.0 |
 | 2.4 | Kattis | [Union-Find](https://open.kattis.com/problems/unionfind) | [C++](./Chapter%202/Kattis/unionfind.cpp) | 5.1 |
 | 2.4 | Kattis | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [C++](./Chapter%202/Kattis/fenwick.cpp) | 4.5 |
-| 3.2 | Kattis | [Pet](https://open.kattis.com/problems/pet) | [C++](./Chapter%202/Kattis/pet.py) | 1.4 |
-| 3.2 | Kattis | [Black Friday](https://open.kattis.com/problems/blackfriday) | [C++](./Chapter%202/Kattis/blackfriday.cpp) | 2.0 |
-| 3.2 | Kattis | [Closest Sums](https://open.kattis.com/problems/closestsums) | [C++](./Chapter%202/Kattis/closestsums.cpp) | 2.9 |
-| 3.2 | Kattis | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [C++](./Chapter%202/Kattis/npuzzle.cpp) | 2.2 |
-| 3.2 | Kattis | [Set!](https://open.kattis.com/problems/set) | [C++](./Chapter%202/Kattis/set.cpp) | 2.2 |
+| 3.2 | Kattis | [Pet](https://open.kattis.com/problems/pet) | [C++](./Chapter%203/Kattis/pet.py) | 1.4 |
+| 3.2 | Kattis | [Black Friday](https://open.kattis.com/problems/blackfriday) | [C++](./Chapter%203/Kattis/blackfriday.cpp) | 2.0 |
+| 3.2 | Kattis | [Closest Sums](https://open.kattis.com/problems/closestsums) | [C++](./Chapter%203/Kattis/closestsums.cpp) | 2.9 |
+| 3.2 | Kattis | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [C++](./Chapter%203/Kattis/npuzzle.cpp) | 2.2 |
+| 3.2 | Kattis | [Set!](https://open.kattis.com/problems/set) | [C++](./Chapter%203/Kattis/set.cpp) | 2.2 |
 
 | Section in Book | Problem Source | Problem Title | Language |
 | ------------- | ------------- | ------------- | ------------- |
