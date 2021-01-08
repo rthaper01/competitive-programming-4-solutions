@@ -66,6 +66,7 @@ The title of each problem hyperlinks to its description while the language hyper
 | 2.2 | UvA Online Judge | [Grey Codes](./Chapter%202/UvA/greycodes.cpp) | C++ |
 | 2.2 | UvA Online Judge | [Very Easy !!!](./Chapter%202/UvA/veryeasy.py) | Python 3 |
 | 2.4 | UvA Online Judge | [Easy Problem From Rujia Liu](./Chapter%202/UvA/easy.cpp) | C++ |
+| 3.2 | UvA Online Judge | [The Archery Puzzle](./Chapter%302/UvA/archery.cpp) | C++ |
 
 
 
